@@ -1,4 +1,4 @@
-🏴‍☠️ Ahoy, Code Crusaders! I am Jalal
+🏴‍☠️ Ahoy, Code Crusaders! I am Jalal, a
 Computer Systems Software Engineering Student at Carleton University
 💻 Passionate about Tech and Hardware.
 ⚡️ Thriving on embedded systems projects with Raspberry Pi, Arduino, and diverse microcontrollers.
