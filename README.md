@@ -11,12 +11,12 @@ Network
 Skills
 |  |  |
 | ------------- | ------------- |
-| Programming/Backend  | [![Languages](https://skillicons.dev/icons?i=python,c,java,flask,nodejs&perline=5)]()  |
-| Front Dev  | [![FrontDev](https://skillicons.dev/icons?i=js,html,css,angular,ts,bootstrap,pug,react,&perline=5)]()  |
+| Programming/Backend  | [![Languages](https://skillicons.dev/icons?i=python,c,java,nodejs&perline=5)]()  |
+| Front Dev  | [![FrontDev](https://skillicons.dev/icons?i=js,html,css,ts,bootstrap,react,&perline=5)]()  |
 | Database  | [![DataBase](https://skillicons.dev/icons?i=sqlite,&perline=5)]()  |
 | Embedded Systems  | [![EmbeddedSys](https://skillicons.dev/icons?i=raspberrypi,arduino,&perline=5)]()  |
 | SysOps  | [![sys](https://skillicons.dev/icons?i=linux,bash,powershell,maven&perline=5)]()  |
-| IDE  | [![IDEs](https://skillicons.dev/icons?i=vscode,atom,idea&perline=5)]()  |
+| IDE  | [![IDEs](https://skillicons.dev/icons?i=vscode,idea&perline=5)]()  |
 | Tools  | [![tool](https://skillicons.dev/icons?i=autocad,jenkins,git,github,latex,matlab,&perline=5)]()  |
 
 
